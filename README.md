@@ -71,7 +71,7 @@ gesture-dino/
 ### 1. Clone the Repository
 
 ```bash id="c1"
-git clone https://github.com/your-username/gesture-dino.git
+git clone https://github.com/Swetha-586/gesture-dino.git
 cd gesture-dino
 ```
 
@@ -109,12 +109,6 @@ python main.py
 ## 🤝 Contributing
 
 Feel free to fork this repo and improve it. Pull requests are welcome!
-
----
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
 
 ---
 
